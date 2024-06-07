@@ -1,11 +1,10 @@
-#  Tool tự động lụm trứng Quack Quack Game
-
-> Đây công cụ tui làm ra chỉ để thử sức code nên nó rất đơn giản. Vì công việc của tui là Sửa Laptop chứ không phải Dev mấy má ưi 😍
+#  Tool tự động lụm trứng và zịt vàng trong Quack Quack Game
 
 > Windows / Mac / Linux đều dùng được miễn có cài NodeJS. Link tải đây https://nodejs.org/en/download/prebuilt-installer
 
-> Video hướng dẫn https://www.tiktok.com/@mhqb365/video/7373837354257091857
+> Hướng dẫn:
+> B1: Mọi người vào con game quack quack trên web -> chuột phải vào con game -> Kiểm tra thành phần -> tìm phần Application -> Local Storage -> tìm play.quackquack.game -> stake -> token -> xong ae copy token "..." lại.
+> B2: Chuột phải vào file quack -> open in Terminal hoặc Prompt commant.
+> B3: Gõ 'node quack' -> Ctrl+Shift+V cái token ae vừa copy là xong.
 
-> Mọi người có hứng thú với con game vô tri này thì đăng ký qua link ủng hộ tui nhé https://t.me/quackquack_game_bot?start=6hn8Xrp7DK
-
-From https://mhqb365.com with ♥
+Chúc AE lụm được nhiều trứng =))
